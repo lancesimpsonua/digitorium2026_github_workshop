@@ -1,9 +1,8 @@
-# Digitorium GitHub Workshop
-Copyright Lance Michael Simpson, 2026
+# Digitorium Workshop 2: Versioning with GitHub
+
+Presented by Lance Michael Simpson
 
 This is a placeholder for the README for now. I'll update this as I have more of the materials in place.
-
-*Need to add the license as well*
 
 For now, here's a quick listing of what will be in this repository, and what purpose the repository serves:
 
