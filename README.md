@@ -2,18 +2,21 @@
 
 Presented by Lance Michael Simpson
 
-This is a placeholder for the README for now. I'll update this as I have more of the materials in place.
+This README, along with the lesson and bits of software for this workshop, is still being drafted. You are looking at a live version. If you would like to track when this version was last updated, take a look at our [Commits History] for the README.
 
 For now, here's a quick listing of what will be in this repository, and what purpose the repository serves:
 
 ## Purpose
 
-This repository contains materials for GitHub Workshop for Digitorium 2026.
+This repository contains materials for GitHub Workshop for [Digitorium 2026].
 
 The workshop is designed to introduce conference attendees to the following:
 - GitHub platform
 - Versioning, and why it's important
 - Git, and how it works!
+
+The repository itself was built using the GitHub browser interface. I opted to make the repository public, and to build it in real-time, to provide students with an example of what versioning using Git could look like.
+During the workshop, we will review changes and choices I made for content and presentation throughout the life of the building process for the workshop lessons.
 
 ## Learning Outcomes
 
@@ -28,6 +31,17 @@ After completing this lesson, learners will be able to do the following:
 ## Outline and Links
 
 This is where the outline for the workshop will live. I'll link to each individual lesson section here as well.
+
+### Lesson 1: Intro to Versioning
+This lesson will introducing the concept and practice of versioning. Versioning can be important for documentation, for reproducibility of workflows, for the fidelity of a project, and (with software) for troubleshooting and tracing errors.
+We'll see how these ideas apply to documents, datasets, programmatic workflows, and more.
+While we will not directly use a Command Line Interface `CLI`, we explore the some basics functions of the Git software as a tool for versioning.
+
+### Lesson 2: Intro to GitHub
+
+### Lesson 3: Trying it Out
+
+### Lesson 4: Considering Next Steps for Your Work
 
 ## Resources for Getting Started with Git, GitHub, and Versioning
 
@@ -54,3 +68,18 @@ Text-based document formats (CSV, MD, LaTeX, TXT, STL, XML, JSON, etc.), as oppo
 They also work great with versioning :) Here are a few resources for getting started with Markdown and text-based formats:
 
 This is where they'll be :)
+
+<!-- Variables for Links-->
+
+[Lesson 1: Intro to Versioning]: https://github.com/lancemsimpson/digitorium2026_github_workshop/blob/e1be61b3bca8cd7c6998f7a26f387f391e477657/lesson_1_versioning_intro.md
+
+<!-- [Lesson 2: Intro to GitHub]: link goes here. Don't forget to uncomment :) -->
+
+<!-- [Lesson 3: Intro to GitHub]: link goes here. Don't forget to uncomment :) -->
+
+<!-- [Lesson 4: Considering Next Steps for Your Work]: link goes here. Don't forget to uncomment :) -->
+
+[Commits History]: https://github.com/lancemsimpson/digitorium2026_github_workshop/commits/main/README.md
+
+[Digitorium 2026]: https://adhc.lib.ua.edu/digitorium/
+
