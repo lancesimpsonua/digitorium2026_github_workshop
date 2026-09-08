@@ -43,7 +43,7 @@ Notices:
   necessary for your intended use. For example, other rights such as publicity,
   privacy, or moral rights may limit how you use the material.
 
-## Software for Digitorium Workshop 2: Versioning with GitHu
+## Software for Digitorium Workshop 2: Versioning with GitHub
 
 Except where otherwise noted, the example programs and other software provided
 by Lance Michael Simpson are made available under the [OSI][osi]-approved [MIT
