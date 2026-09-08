@@ -16,7 +16,13 @@ The workshop is designed to introduce conference attendees to the following:
 
 ## Learning Outcomes
 
-This is where the LOs will live.
+After completing this lesson, learners will be able to do the following: 
+
+1. Describe GitHub and it's purpose.
+2. Explain the concept of versioning, and why it's important in DH work.
+3. Identify key vocabulary for working with git and GitHub.
+4. Explain key processes for versioning using git and GitHub.
+5. Apply knowledge of git and  GitHub to initialize a new repository, make a commit, and fork another repository.
 
 ## Outline and Links
 
