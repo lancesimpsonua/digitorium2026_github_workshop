@@ -1,4 +1,4 @@
-# License
+# Licenses
 
 Copyright &copy; 2026 Lance Michael Simpson.
 
