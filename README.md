@@ -20,11 +20,11 @@ The workshop is designed to introduce conference attendees to the following:
 
 After completing this lesson, learners will be able to do the following: 
 
-1. Describe GitHub and it's purpose.
-2. Explain the concept of versioning, and why it's important in DH work.
-3. Identify key vocabulary for working with Git and GitHub.
-4. Explain key processes for versioning using Git and GitHub.
-5. Apply knowledge of Git and  GitHub to initialize a new repository, make a commit, and fork another repository.
+1. Explain the concept of versioning, and why it's important in DH work.
+2. Describe GitHub, and its purpose and potential role in versioning.
+4. Identify key vocabulary for working with Git and GitHub.
+5. Explain key processes for versioning using Git and GitHub.
+6. Apply knowledge of Git and  GitHub to initialize a new repository, make a commit, and fork another repository.
 
 ## Outline and Links
 
