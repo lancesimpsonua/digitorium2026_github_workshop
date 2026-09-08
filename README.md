@@ -3,6 +3,8 @@ Copyright Lance Michael Simpson, 2026
 
 This is a placeholder for the README for now. I'll update this as I have more of the materials in place.
 
+*Need to add the license as well*
+
 For now, here's a quick listing of what will be in this repository, and what purpose the repository serves:
 
 ## Purpose
@@ -20,9 +22,9 @@ After completing this lesson, learners will be able to do the following:
 
 1. Describe GitHub and it's purpose.
 2. Explain the concept of versioning, and why it's important in DH work.
-3. Identify key vocabulary for working with git and GitHub.
-4. Explain key processes for versioning using git and GitHub.
-5. Apply knowledge of git and  GitHub to initialize a new repository, make a commit, and fork another repository.
+3. Identify key vocabulary for working with Git and GitHub.
+4. Explain key processes for versioning using Git and GitHub.
+5. Apply knowledge of Git and  GitHub to initialize a new repository, make a commit, and fork another repository.
 
 ## Outline and Links
 
