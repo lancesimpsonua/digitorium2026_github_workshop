@@ -6,7 +6,7 @@ Copyright &copy; 2026 Lance Michael Simpson.
 
 Portions of this instructional material were adapted from the lesson, 
 "[Version Control with Git]," by [The Software Carpentries], which is a
-part of [The Carprentries].
+part of [The Carpentries].
 
 Accordingly, the Instructional Material here is made available under the 
 [Creative Commons Attribution license][cc-by-human].The following is a 
