@@ -9,7 +9,7 @@ Portions of this instructional material were adapted from the lesson,
 part of [The Carpentries].
 
 Accordingly, the Instructional Material here is made available under the 
-[Creative Commons Attribution license][cc-by-human].The following is a 
+[Creative Commons Attribution license][cc-by-human]. The following is a 
 human-readable summary of (and not a substitute for) the
 [full legal text of the CC BY 4.0 license][cc-by-legal].
 
@@ -26,8 +26,7 @@ Under the following terms:
 
 - **Attribution**---You must give appropriate credit (mentioning that your work is
 -  derived from work that is Copyright (c) Lance Michael Simpson and, provide a
--  [link to the license][cc-by-human], and indicate if changes were made. You may do
--  so in any reasonable manner, but not in any way that suggests the licensor endorses
+-  [link to the license][cc-by-human], and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses
   you or your use.
 
 - **No additional restrictions**---You may not apply legal terms or
