@@ -6,24 +6,30 @@ Versioning can be important for documentation, for reproducibility of workflows,
 
 ## Lesson Outline
 
-### What is versioning?
+### What is Versioning?
 
 Versioning is the practice of keeping track of changes over time. 
 
 You can version:
 
 - a single document or an entire project.
-- most any file, including text-based documents, images, code for workflows, etc.
+- most any file, including text-based documents, images, code/software, etc.
 
-You may already have a versioning practice in place using online repository tools like Google Drive, Box, OneDrive, DropBox.
+You likely already have a versioning practice in place using online repository tools like Google Drive, Box, OneDrive, or DropBox.
 
-Each of these allows for users to add files in ways that track changes between versions. For some, however, this can require you to activate a `Track Changes` feature to get a more full understanding of what's changed within a document between edits. Tools like Box provide the option to continually upload a file by the same name, and to be able to see and revert to previous version of the document.
+Each of these allows for users to add files in ways that track changes between versions. For some, however, this can require you to activate a `Track Changes` feature within a document to get a more full understanding of what's changed within a document between edits. Tools like Box provide the option to continually upload a file by the same name, and to be able to see and revert to previous version of the document.
 
 How you choose to version a project can determine which parts of the process are visible and available to you, collaborators, and other researchers over time. This choice can also determine how easily (and to what extent) you can track changes or possibly revert to previous versions of single files or the entire project.
 
-As we continue through the lesson, we'll focus on automated version control systems that allow for very detailed and expansive tracking of versions.
+Some considerations you may have when deciding how to version a project include:
+- how often you update your files or project.
+- whether you have collaborators.
+- the level of need for chronicling detailed changes.
+- whether you may need to easily revert a file or project in real time.
 
-Specifically, we will introduce the software, Git, and the cloud-based storage and project management system that utilizes Git, GitHub.
+Some of these needs require changes and versions to be tracked in specific ways. As we continue through the lesson, we'll focus on automated version control systems that allow for very detailed and expansive tracking of versions. These systems often require a greater degree of upfront setup and maintenance. But they offer an incredible level of granular control over a project and its history of development.
+
+Specifically, we will introduce the software, Git, and a cloud-based storage and project management system that utilizes Git, GitHub.
 
 <!--
 
