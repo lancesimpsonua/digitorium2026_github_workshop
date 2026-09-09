@@ -32,16 +32,17 @@ After completing this lesson, learners will be able to do the following:
 
 This is where the outline for the workshop will live. I'll link to each individual lesson section here as well.
 
-### Lesson 1: Intro to Versioning
+### [Lesson 1: Intro to Versioning](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_1_versioning_intro.md)
+
 This lesson will introducing the concept and practice of versioning. Versioning can be important for documentation, for reproducibility of workflows, for the fidelity of a project, and (with software) for troubleshooting and tracing errors.
 We'll see how these ideas apply to documents, datasets, programmatic workflows, and more.
 While we will not directly use a Command Line Interface `CLI`, we explore the some basics functions of the Git software as a tool for versioning.
 
-### Lesson 2: Intro to GitHub
+### [Lesson 2: Intro to GitHub](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_2_github_intro.md)
 
-### Lesson 3: Trying it Out
+### [Lesson 3: Trying it Out](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_3_trying_it_out.md)
 
-### Lesson 4: Considering Next Steps for Your Work
+### [Lesson 4: Considering Next Steps for Your Work](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_4_considering_next_steps.md)
 
 ## Resources for Getting Started with Git, GitHub, and Versioning
 
