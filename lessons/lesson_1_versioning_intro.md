@@ -17,10 +17,6 @@ You can version:
 
 You likely already have a versioning practice in place either locally on your machine, or using online repository tools like Google Drive, Box, OneDrive, or DropBox.
 
-![Comic: A PhD student sends FINAL.doc to a supervisor. Increasingly stressful revision rounds produce an absurdly long filename.](fig/phd101212s.png) “notFinal.doc” by Jorge Cham, [PhD Comics](https://www.phdcomics.com).
-
-
-
 Each of these allows for users to add files in ways that track changes between versions. For some, however, this can require you to activate a `Track Changes` feature within a document to get a more full understanding of what's changed within a document between edits. Tools like Box provide the option to continually upload a file by the same name, and to be able to see and revert to previous version of the document.
 
 How you choose to version a project can determine which parts of the process are visible and available to you, collaborators, and other researchers over time. This choice can also determine how easily (and to what extent) you can track changes or possibly revert to previous versions of single files or the entire project.
