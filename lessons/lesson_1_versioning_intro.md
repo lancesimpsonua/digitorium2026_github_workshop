@@ -15,7 +15,11 @@ You can version:
 - a single document or an entire project.
 - most any file, including text-based documents, images, code/software, etc.
 
-You likely already have a versioning practice in place using online repository tools like Google Drive, Box, OneDrive, or DropBox.
+You likely already have a versioning practice in place either locally on your machine, or using online repository tools like Google Drive, Box, OneDrive, or DropBox.
+
+![Comic: A PhD student sends FINAL.doc to a supervisor. Increasingly stressful revision rounds produce an absurdly long filename.](fig/phd101212s.png) “notFinal.doc” by Jorge Cham, [PhD Comics](https://www.phdcomics.com).
+
+
 
 Each of these allows for users to add files in ways that track changes between versions. For some, however, this can require you to activate a `Track Changes` feature within a document to get a more full understanding of what's changed within a document between edits. Tools like Box provide the option to continually upload a file by the same name, and to be able to see and revert to previous version of the document.
 
@@ -30,16 +34,6 @@ Some considerations you may have when deciding how to version a project include:
 Some of these needs require changes and versions to be tracked in specific ways. As we continue through the lesson, we'll focus on automated version control systems that allow for very detailed and expansive tracking of versions. These systems often require a greater degree of upfront setup and maintenance. But they offer an incredible level of granular control over a project and its history of development.
 
 Specifically, we will introduce the software, Git, and a cloud-based storage and project management system that utilizes Git, GitHub.
-
-<!--
-
- ### Why is versioning important for DH Work?
-
-Versioning can be important for all projects, and for a variety of reasons. These can include creating important backups to prevent potential loss of the work done, being able to review and differentiate changes and contributions to a project over time, and transparency for the development process.
-
-The theme for Digitorium this year is "Preserve." This part may be moved
-
- -->
 
 ### What is Git?
 
@@ -56,6 +50,20 @@ and the name as (depending on your mood):
 > - "global information tracker": you're in a good mood, and it actually
    works for you. Angels sing, and a light suddenly fills the room.
 > - "goddamn idiotic truckload of sh*t": when it breaks
+
+
+
+<!--
+
+ ### Why is versioning important for DH Work?
+
+Versioning can be important for all projects, and for a variety of reasons. These can include creating important backups to prevent potential loss of the work done, being able to review and differentiate changes and contributions to a project over time, and transparency for the development process.
+
+The theme for Digitorium this year is "Preserve." This part may be moved
+
+ -->
+
+
 
 ### How does Git work in versioning?
 
