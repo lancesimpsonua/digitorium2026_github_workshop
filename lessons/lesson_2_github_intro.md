@@ -1,4 +1,4 @@
-# DRAFT Intro to GitHub
+# DRAFT Lesson 2: Intro to GitHub
 
 ## About This Lesson
 

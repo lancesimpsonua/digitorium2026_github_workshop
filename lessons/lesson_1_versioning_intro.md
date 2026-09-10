@@ -1,8 +1,8 @@
-# DRAFT Intro to Versioning
+# DRAFT Lesson 1: Intro to Versioning and Version Control
 
 ## About This Lesson
 
-Versioning can be important for documentation, for reproducibility of workflows, for the fidelity of a project, and (with software) for troubleshooting and tracing errors. We'll see how these ideas apply to documents, datasets, programmatic workflows, and more. While we will not directly use a Command Line Interface `CLI`, we will explore the some basics functions of the Git software as a tool for versioning.
+Versioning can be important for documentation, for reproducibility of workflows, for the fidelity of a project, and (with software) for troubleshooting and tracing errors. We'll see how these ideas apply to documents, datasets, programmatic workflows, and more. While we will not directly use a Command Line Interface `CLI`, we will explore the some basic concepts and functions of the Git software as a tool for versioning.
 
 ## Lesson Outline
 

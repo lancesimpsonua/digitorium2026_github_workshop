@@ -1,4 +1,4 @@
-# DRAFT Trying it Out
+# DRAFT Lesson 3: Trying it Out
 
 ## About This Lesson
 
