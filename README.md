@@ -42,8 +42,6 @@ While we will not directly use a Command Line Interface `CLI`, we explore the so
 
 ### [Lesson 3: Trying it Out](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_3_trying_it_out.md)
 
-### [Lesson 4: Considering Next Steps for Your Work](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_4_considering_next_steps.md)
-
 ## Resources for Getting Started with Git, GitHub, and Versioning
 
 We'll only be scratching the surface in the workshop. 
