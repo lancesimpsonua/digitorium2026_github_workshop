@@ -14,10 +14,17 @@ You can version:
 
 - a single document or an entire project.
 - most any file, including text-based documents, images, code/software, etc.
+- changes made by you, or by collaborators.
 
 You likely already have a versioning practice in place either locally on your machine, or using online repository tools like Google Drive, Box, OneDrive, or DropBox.
 
 Each of these allows for users to add files in ways that track changes between versions. For some, however, this can require you to activate a `Track Changes` feature within a document to get a more full understanding of what's changed within a document between edits. Tools like Box provide the option to continually upload a file by the same name, and to be able to see and revert to previous version of the document.
+
+The Software Carpentries cites a fantastic example from PhDComics:
+
+!["Final".doc](https://www.phdcomics.com/comics/archive/phd101212s.gif "A comic showing a graduate student constantly renaming his final.doc document after talking with advisor. Using names like final_rev.6.COMMENTS.doc, and eventually ending in FINAL_rev.22.comments49.corrections.10.#$%WHYDIDICOMETOGRADSCHOOL????.doc")
+
+&copy; Jorge Cham, "notFINAL.doc", [PhDComics](https://www.phdcomics.com)
 
 How you choose to version a project can determine which parts of the process are visible and available to you, collaborators, and other researchers over time. This choice can also determine how easily (and to what extent) you can track changes or possibly revert to previous versions of single files or the entire project.
 
