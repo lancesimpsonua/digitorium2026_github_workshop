@@ -57,4 +57,41 @@ After initializing your repository, you can add a README and license file:
 3. Name the file `README.md` and add some initial content describing your project.
 4. Click "Commit new file", and add your commit message describing the addition of the README file (e.g., "Add README.md").
 
+
+### Fork this Lesson Repository
+
+To fork this lesson repository, follow these steps:
+
+1. Navigate to the main page of the lesson repository on GitHub.
+2. Click the "Fork" button in the top right corner of the page.
+3. Select your GitHub account as the destination for the fork.
+4. GitHub will create a copy of the repository under your account, which you can now modify independently of the original repository.
+
+
+### Make changes to the Forked Repository
+
+To make changes to the forked repository, follow these steps:
+
+1. Navigate to your forked repository on GitHub.
+2. Click on the file you want to edit, or add a new file by clicking "Add file" and selecting "Create new file".
+3. Make the desired changes to the file.
+4. Add a commit message describing the changes you made.
+5. Click "Commit changes" to save your changes to the forked repository.
+
+
+### Open a Pull Request to the Original Repository for the Changes You Made
+
+To open a pull request to the original repository for the changes you made, follow these steps:
+
+1. Navigate to your forked repository on GitHub.
+2. Click on the "Pull requests" tab.
+3. Click the "New pull request" button.
+4. Ensure that the base repository is the original lesson repository and the base branch is the branch you want to merge into.
+5. Ensure that the head repository is your forked repository and the compare branch is the branch containing your changes.
+6. Review the changes and add a title and description for your pull request.
+7. Click "Create pull request" to submit your changes for review.    
+
 ## References
+
+1. [GitHub Fork Documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+2. [GitHub Pull Request Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
