@@ -40,7 +40,11 @@ While we will not directly use a Command Line Interface `CLI`, we explore the so
 
 ### [Lesson 2: Intro to GitHub](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_2_github_intro.md)
 
+In this lesson, we will introduce GitHub. We will take a look at a few of its features, how it integrates with Git, and why it is useful for managing projects, especially in collaborative environments.
+
 ### [Lesson 3: Trying it Out](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_3_trying_it_out.md)
+
+In this lesson, we will initialize a repository on GitHub, make a README and license file, and we'll upload an existing project.
 
 ## Resources for Getting Started with Git, GitHub, and Versioning
 
