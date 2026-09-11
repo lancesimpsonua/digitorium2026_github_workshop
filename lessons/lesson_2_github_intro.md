@@ -40,6 +40,10 @@ We'll take some time to look around here. A couple of things we'll cover during 
 - **README**: We'll examine the README file, which typically provides an overview of the project, instructions for setup, and other relevant information for contributors and users.
 - **License**: We'll take a look at the repository's license file, which specifies the terms under which the project's code can be used, modified, and distributed.
 
+![Git Commit by XKCD](https://imgs.xkcd.com/comics/git_commit.png "Merge branch 'asdfasjkfdlas/alkdjf' into sdkjfls-final")
+
+&copy; [Source: XKCD](https://xkcd.com/1296/), Creative Commons License 2.5 (https://creativecommons.org/licenses/by-nc/2.5/), No changes made.
+
 
 #### What else can be done to this repository using GitHub?
 

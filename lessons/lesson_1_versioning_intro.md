@@ -43,7 +43,9 @@ Specifically, we will introduce the software, Git, and a cloud-based storage and
 
 ### What is Git?
 
-![XKCD Git Comic](https://imgs.xkcd.com/comics/git_2x.png "")
+![XKCD Git Comic](https://imgs.xkcd.com/comics/git_2x.png "If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.")
+
+&copy; [Source: XKCD](https://xkcd.com/1597/), Creative Commons License 2.5 (https://creativecommons.org/licenses/by-nc/2.5/), No changes made.
 
 Git is a distributed, automated version control system. It functions as a powerful system that can be used to create exact snapshots of specific files, or your project as a whole, at any point you choose.
 
