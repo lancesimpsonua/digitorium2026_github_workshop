@@ -44,7 +44,7 @@ In this lesson, we will introduce GitHub. We will take a look at a few of its fe
 
 ### [Lesson 3: Trying it Out](https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_3_trying_it_out.md)
 
-In this lesson, we will initialize a repository on GitHub, make a README and license file, and we'll upload an existing project.
+In this lesson, we will initialize a repository on GitHub, make a README and license file, and we'll upload an existing project. If time allows, we'll also fork this repository, make some new commits, and open a pull request to add those to the main branch of the original repository
 
 ## Resources for Getting Started with Git, GitHub, and Versioning
 
