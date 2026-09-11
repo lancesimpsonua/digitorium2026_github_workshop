@@ -1,4 +1,4 @@
-# DRAFT Lesson 1: Intro to Versioning and Version Control
+# Lesson 1: Intro to Versioning and Version Control
 
 ## About This Lesson
 
@@ -25,6 +25,9 @@ The Software Carpentries cites a fantastic example from PhDComics:
 !["Final".doc](https://www.phdcomics.com/comics/archive/phd101212s.gif "A comic showing a graduate student constantly renaming his final.doc document after talking with advisor. Using names like final_rev.6.COMMENTS.doc, and eventually ending in FINAL_rev.22.comments49.corrections.10.#$%WHYDIDICOMETOGRADSCHOOL????.doc")
 
 &copy; Jorge Cham, "notFINAL.doc", [PhDComics](https://www.phdcomics.com)
+
+
+#### Choosing a Versioning Strategy
 
 How you choose to version a project can determine which parts of the process are visible and available to you, collaborators, and other researchers over time. This choice can also determine how easily (and to what extent) you can track changes or possibly revert to previous versions of single files or the entire project.
 
@@ -61,7 +64,7 @@ It is especially helpful in providing control over the main version of any file 
 Branching in Git allows you or collaborators to create a secondary version of the main project where you can make edits and changes with these directly affecting the main version of the project.
 
 Here are a few ways this can be particularly useful:
-- You want to try out new additions to your code. With branching you can do this, and decide later whether to commit these changes to the main branch of the project.
+- You want to try out new additions to your code. With branching you can do this, and decide later whether to commit these changes to the main branch of the project. This works with a document as well. Rather than doing, "Track Changes," you can create a branch for your edits and merge them when ready.
 - You and your collaborators are working across branches, and you want to select which of these change you all have made to be a part of the main version of the project.
 - You and your collaborators have made conflicting edits on your respective branches. Git is designed with a resolution process in mind to ensure these conflicts are resolved before being committed to the main branch.
 
@@ -96,10 +99,14 @@ Version control systems like Git are particularly useful in Digital Humanities (
 
 ## References
 
-<!-- Need to format these, but I am adding them as I go. -->
+1. The Software Carpentries. (n.d.). Version control with git: Automated version control. Retrieved September 8, 2026, from https://swcarpentry.github.io/git-novice/01-basics.html
 
-The Software Carpentries. (n.d.). Version control with git: Automated version control. Retrieved September 8, 2026, from https://swcarpentry.github.io/git-novice/01-basics.html
+2. Chacon, S., & Straub, B. (2014). Pro Git (2nd ed.). https://git-scm.com/book/en/v2
 
-Git. (n.d.). Git—README. Retrieved September 9, 2026, from https://github.com/git/git/blob/master/README.md
+3. Munroe, R. (n.d.). Git. XKCD. https://xkcd.com/1597/
+
+4. Cham, J. (n.d.). notFINAL.doc. PHD Comics. https://www.phdcomics.com/comics/archive/phd101212s.gif
+
+5. Git. (n.d.). Git—README. Retrieved September 9, 2026, from https://github.com/git/git/blob/master/README.md
 
 
