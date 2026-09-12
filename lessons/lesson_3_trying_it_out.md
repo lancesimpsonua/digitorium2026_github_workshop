@@ -46,7 +46,7 @@ After initializing your repository, you can add a README and license file:
 2. Click on "Add file" and select "Create new file".
 3. Name the file `LICENSE.md` and add some initial content describing your project.
 4. Review the License from Dr. Dubose's Jupyter Notebook to ensure it is correctly applied to your project. You'll notice that the project has its own MIT license, which should be reflected in your `LICENSE.md` file.
-5. Because you have named the file LICENSE, GitHub automatically recognizes this as the license file for your repository. It also provides options for open source license language that you can add automatically. Choose the appropriate license (in this case, MIT), and update the Copyright info to your name.
+5. GitHub also provides options for open source license language that you can add automatically. Choose the appropriate license (in this case, MIT), and update the Copyright info to your name.
 6. Click "Commit new file", and add your commit message describing the addition of the license file (e.g., "Add LICENSE.md").
 
 
@@ -59,6 +59,8 @@ After initializing your repository, you can add a README and license file:
 
 
 ### Fork this Lesson Repository
+
+Let's try out forking a repository on GitHub. To do that, we'll use the lesson repository we're in right now.
 
 To fork this lesson repository, follow these steps:
 
@@ -75,8 +77,9 @@ To make changes to the forked repository, follow these steps:
 1. Navigate to your forked repository on GitHub.
 2. Click on the file you want to edit, or add a new file by clicking "Add file" and selecting "Create new file".
 3. Make the desired changes to the file.
-4. Add a commit message describing the changes you made.
-5. Click "Commit changes" to save your changes to the forked repository.
+4. Create a branch for your changes by clicking on the branch dropdown and selecting "Create new branch".
+5. Add a commit message describing the changes you made.
+6. Click "Commit changes" to save your changes to the forked repository.
 
 
 ### Open a Pull Request to the Original Repository for the Changes You Made
@@ -93,5 +96,6 @@ To open a pull request to the original repository for the changes you made, foll
 
 ## References
 
-1. [GitHub Fork Documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-2. [GitHub Pull Request Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
+1. [GitHub Quickstart for Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
+2. [GitHub Fork Documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+3. [GitHub Pull Request Documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)
