@@ -1,4 +1,4 @@
-# DRAFT Lesson 2: Intro to GitHub
+# Lesson 2: Intro to GitHub
 
 ## About This Lesson
 
@@ -40,10 +40,13 @@ We'll take some time to look around here. A couple of things we'll cover during 
 - **README**: We'll examine the README file, which typically provides an overview of the project, instructions for setup, and other relevant information for contributors and users.
 - **License**: We'll take a look at the repository's license file, which specifies the terms under which the project's code can be used, modified, and distributed.
 
+---
+
 ![Git Commit by XKCD](https://imgs.xkcd.com/comics/git_commit.png "Merge branch 'asdfasjkfdlas/alkdjf' into sdkjfls-final")
 
 &copy; [Source: XKCD](https://xkcd.com/1296/), Creative Commons License 2.5 (https://creativecommons.org/licenses/by-nc/2.5/), No changes made.
 
+---
 
 #### What else can be done to this repository using GitHub?
 
@@ -56,3 +59,7 @@ When thinking about this as a potential community collaboration standpoint:
     - An issue differs from a pull request in that it is used to discuss and track problems or enhancements, rather than proposing specific changes to the codebase or files.
 
 ## References
+
+1. GitHub. (n.d.). What is GitHub? Retrieved September 11, 2026, from https://docs.github.com/en/get-started/start-your-journey/what-is-github
+2. Chacon, S., & Straub, B. (2014). Pro Git (2nd ed.). https://git-scm.com/book/en/v2
+3. GitHub. (n.d.). Reviewing your proposed changes. Retrieved September 11, 2026, from https://docs.github.com/en/get-started/start-your-journey/reviewing-your-proposed-changes
