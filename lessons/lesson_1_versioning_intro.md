@@ -20,12 +20,15 @@ You likely already have a versioning practice in place either locally on your ma
 
 Each of these allows for users to add files in ways that track changes between versions. For some, however, this can require you to activate a `Track Changes` feature within a document to get a more full understanding of what's changed within a document between edits. Tools like Box provide the option to continually upload a file by the same name, and to be able to see and revert to previous version of the document.
 
+---
+
 The Software Carpentries cites a fantastic example from PhDComics:
 
 !["Final".doc](https://www.phdcomics.com/comics/archive/phd101212s.gif "A comic showing a graduate student constantly renaming his final.doc document after talking with advisor. Using names like final_rev.6.COMMENTS.doc, and eventually ending in FINAL_rev.22.comments49.corrections.10.#$%WHYDIDICOMETOGRADSCHOOL????.doc")
 
 &copy; Jorge Cham, "notFINAL.doc", [PhDComics](https://www.phdcomics.com)
 
+---
 
 #### Choosing a Versioning Strategy
 
@@ -43,9 +46,7 @@ Specifically, we will introduce the software, Git, and a cloud-based storage and
 
 ### What is Git?
 
-![XKCD Git Comic](https://imgs.xkcd.com/comics/git_2x.png "If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.")
 
-&copy; [Source: XKCD](https://xkcd.com/1597/), Creative Commons License 2.5 (https://creativecommons.org/licenses/by-nc/2.5/), No changes made.
 
 Git is a distributed, automated version control system. It functions as a powerful system that can be used to create exact snapshots of specific files, or your project as a whole, at any point you choose.
 
@@ -53,15 +54,25 @@ Git can be used on Windows, MacOS, and the various flavors of Linux operating sy
 
 You can use git as an individual contributor tracking progress, history, and versions of your work. Git also allows for managing the work of multiple contributors.
 
-Changes are recorded in Git with what's called a `commit`. A `commit` is basically a saved state of your project at that moment. With each `commit`, Git records a `snapshot` of your project at that specific point in time. This allows you to track changes, review the history of your project, and revert to previous versions if necessary.
+**Commits:** Changes are recorded in Git with what's called a commit. A commit is basically a saved state of your project at that moment. With each commit, Git records a snapshot of your project at that specific point in time. This allows you to track changes, review the history of your project, and revert to previous versions if necessary.
+
+---
+
+![XKCD Git Comic](https://imgs.xkcd.com/comics/git_2x.png "If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.")
+
+&copy; [Source: XKCD](https://xkcd.com/1597/), Creative Commons License 2.5 (https://creativecommons.org/licenses/by-nc/2.5/), No changes made.
+
+---
 
 #### Commits as Reflective Practice
 
-With each `commit`, you choose what of the changes from last `commit` that you want to include. Git allows for your to provide a descriptive comment on what changes are being committed and why, which can serve as a reflective practice for understanding the evolution of your project.
+With each commit, you choose what of the changes from last commit that you want to include. Git allows for your to provide a descriptive comment on what changes are being committed and why, which can serve as a reflective practice for understanding the evolution of your project.
 
 #### Collaborating
 
-It is especially helpful in providing control over the main version of any file or project. This means that when you are working as a group, you can establish ways for collaborators to make changes directly to the main version of a project, or you can have them create what's called a `Branch` of a project.
+It is especially helpful in providing control over the main version of any file or project. This means that when you are working as a group, you can establish ways for collaborators to make changes directly to the main version of a project, or you can have them create what's called a Branch of a project.
+
+**Branch**: In Git, a Branch is concurrent version of the main project, allowing you to make changes and edits without directly affecting the main version.    
 
 Branching in Git allows you or collaborators to create a secondary version of the main project where you can make edits and changes with these directly affecting the main version of the project.
 
