@@ -81,11 +81,11 @@ More examples can go here.
 
 <!-- Variables for Links-->
 
-[Lesson 1: Intro to Versioning]: https://github.com/lancemsimpson/digitorium2026_github_workshop/blob/e1be61b3bca8cd7c6998f7a26f387f391e477657/lesson_1_versioning_intro.md
+[Lesson 1: Intro to Versioning]: lessons/lesson_1_versioning_intro.md
 
-[Lesson 2: Intro to GitHub]: https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_2_github_intro.md
+[Lesson 2: Intro to GitHub]: lessons/lesson_2_github_intro.md
 
-[Lesson 3: Trying it Out]: https://github.com/lancesimpsonua/digitorium2026_github_workshop/blob/61746faf677ea207584bc3b35ef6aa66cb55d218/lessons/lesson_3_trying_it_out.md
+[Lesson 3: Trying it Out]: lessons/lesson_3_trying_it_out.md
 
 [Commits History]: https://github.com/lancemsimpson/digitorium2026_github_workshop/commits/main/README.md
 
